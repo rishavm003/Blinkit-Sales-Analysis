@@ -45,5 +45,10 @@ This repository contains an in-depth analysis of Blinkit's sales data using **Po
 - **Power BI Desktop** for data visualization and dashboard creation
 - **Data Processing & Analysis** techniques to extract insights
 
+## 📊 Blinkit Sales Analysis
+
+![Blinkit Analysis](https://github.com/rishavm003/Blinkit-Sales-Analysis/blob/main/Blinkit%20Analysis_page-0001.jpg)
+
+
 ## 📂 Repository Structure
 https://github.com/rishavm003/Blinkit-Sales-Analysis/blob/main/BlinkIT%20Grocery%20Data.xlsx
